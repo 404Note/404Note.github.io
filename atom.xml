@@ -6,7 +6,7 @@
   <link href="https://writeup.cn/atom.xml" rel="self"/>
   
   <link href="https://writeup.cn/"/>
-  <updated>2020-11-17T08:18:08.062Z</updated>
+  <updated>2020-11-17T09:17:32.678Z</updated>
   <id>https://writeup.cn/</id>
   
   <author>
@@ -15,6 +15,98 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021年新兴网络安全威胁预测</title>
+    <link href="https://writeup.cn/2020/11/17/202011171600241605600024/"/>
+    <id>https://writeup.cn/2020/11/17/202011171600241605600024/</id>
+    <published>2020-11-17T08:00:24.000Z</published>
+    <updated>2020-11-17T09:17:32.678Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>在对2021年的威胁预测中，本文评估了网络罪犯在未来一年及今后会采取的策略，包括对智能边缘计算、5G设备和计算能力进步的预测和洞察，以及因此而出现的新一轮高级威胁浪潮。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;在对2021年的威胁预测中，本文评估了网络罪犯在未来一年及今后会采取的策略，包括对智能边缘计算、5G设备和计算能力进步的预测和洞察，以及因此而出现的新一轮高级威胁浪潮。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“大国竞争”中的电子战博弈</title>
+    <link href="https://writeup.cn/2020/11/17/202011171530181605598219/"/>
+    <id>https://writeup.cn/2020/11/17/202011171530181605598219/</id>
+    <published>2020-11-17T07:30:18.000Z</published>
+    <updated>2020-11-17T09:17:32.678Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>电子战领域的竞争，正成为大国军事博弈的重点和前沿。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;电子战领域的竞争，正成为大国军事博弈的重点和前沿。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年三季度邮件安全观察：多个公共服务被钓鱼邮件滥用</title>
+    <link href="https://writeup.cn/2020/11/17/202011171500211605596422/"/>
+    <id>https://writeup.cn/2020/11/17/202011171500211605596422/</id>
+    <published>2020-11-17T07:00:21.000Z</published>
+    <updated>2020-11-17T09:17:32.678Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>第三季度整体的邮件攻击数量，较第二季度稍有趋缓，但带有恶意文件的邮件则较上一季度增加了约40%。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;第三季度整体的邮件攻击数量，较第二季度稍有趋缓，但带有恶意文件的邮件则较上一季度增加了约40%。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黑五网购安全指南</title>
+    <link href="https://writeup.cn/2020/11/17/202011171430151605594616/"/>
+    <id>https://writeup.cn/2020/11/17/202011171430151605594616/</id>
+    <published>2020-11-17T06:30:15.000Z</published>
+    <updated>2020-11-17T09:17:32.678Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>今年黑五的一大热门话题就是隐私安全。如果消费者自己不严格把关，很有可能将“隐私炸弹”、“隐私木马”引狼入室。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;今年黑五的一大热门话题就是隐私安全。如果消费者自己不严格把关，很有可能将“隐私炸弹”、“隐私木马”引狼入室。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
   
   <entry>
     <title>【安全通报】Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）</title>
@@ -36,6 +128,256 @@
     
     
     <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Twitter任命著名黑客派特·泽科担任安全负责人</title>
+    <link href="https://writeup.cn/2020/11/17/202011171100181605582019/"/>
+    <id>https://writeup.cn/2020/11/17/202011171100181605582019/</id>
+    <published>2020-11-17T03:00:18.000Z</published>
+    <updated>2020-11-17T09:17:32.677Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>由于面临不断增加的政策法规和越发严重的安全漏洞的双重困扰，社交媒体巨头Twitter任命了一位全球最受尊敬的黑客来解决从技术失误到错误信息等一切问题。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;由于面临不断增加的政策法规和越发严重的安全漏洞的双重困扰，社交媒体巨头Twitter任命了一位全球最受尊敬的黑客来解决从技术失误到错误信息等一切问题。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“魔罗桫”组织以巴基斯坦科研招聘为诱饵的攻击活动分析</title>
+    <link href="https://writeup.cn/2020/11/17/202011171030181605580218/"/>
+    <id>https://writeup.cn/2020/11/17/202011171030181605580218/</id>
+    <published>2020-11-17T02:30:18.000Z</published>
+    <updated>2020-11-17T09:17:32.677Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>近日，红雨滴团队在攻击威胁狩猎中，监测到魔罗桫组织多起攻击样本，此次捕获的样本主要通过伪装成招聘信息、时事新闻等带有模板注入漏洞的文档进行投放，运行后，将展示正常的诱饵迷惑受害者，连接远程服务器获取荷载执行，实现对受害者计算机的完全控制。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;近日，红雨滴团队在攻击威胁狩猎中，监测到魔罗桫组织多起攻击样本，此次捕获的样本主要通过伪装成招聘信息、时事新闻等带有模板注入漏洞的文档进行投放，运行后，将展示正常的诱饵迷惑受害者，连接远程服务器获取荷载执行，实现对受害者计算机的完全控制。&lt;/code&gt;&lt;/p</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>美国《2020年国家生物识别信息隐私法案》全文翻译</title>
+    <link href="https://writeup.cn/2020/11/17/202011171030171605580218/"/>
+    <id>https://writeup.cn/2020/11/17/202011171030171605580218/</id>
+    <published>2020-11-17T02:30:17.000Z</published>
+    <updated>2020-11-17T09:17:32.677Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>该法将适用于&quot;私人实体&quot;，一般包括拥有任何个人的生物识别符或生物识别信息的任何规模的企业。联邦、州和地方政府机构和学术机构不在该法的适用范围内。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;该法将适用于&amp;quot;私人实体&amp;quot;，一般包括拥有任何个人的生物识别符或生物识别信息的任何规模的企业。联邦、州和地方政府机构和学术机构不在该法的适用范围内。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安全之殇：如何将安全建设与商业价值挂钩？</title>
+    <link href="https://writeup.cn/2020/11/17/202011170100191605546019/"/>
+    <id>https://writeup.cn/2020/11/17/202011170100191605546019/</id>
+    <published>2020-11-16T17:00:19.000Z</published>
+    <updated>2020-11-17T09:17:32.677Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>安全部门向来不是一个能挣钱的部门，安全负责人该如何向高管层汇报安全活动的商业价值？</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;安全部门向来不是一个能挣钱的部门，安全负责人该如何向高管层汇报安全活动的商业价值？&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第15届政府/行业信息化安全年会在京召开</title>
+    <link href="https://writeup.cn/2020/11/17/202011170100181605546018/"/>
+    <id>https://writeup.cn/2020/11/17/202011170100181605546018/</id>
+    <published>2020-11-16T17:00:18.000Z</published>
+    <updated>2020-11-17T09:17:32.677Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>11月13日至14日，第15届政府/行业信息化安全年会在北京召开。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;11月13日至14日，第15届政府/行业信息化安全年会在北京召开。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多款伪冒招商银行的山寨APP出现，官方紧急警示</title>
+    <link href="https://writeup.cn/2020/11/17/202011170100171605546017/"/>
+    <id>https://writeup.cn/2020/11/17/202011170100171605546017/</id>
+    <published>2020-11-16T17:00:17.000Z</published>
+    <updated>2020-11-17T09:17:32.676Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>在银行抢占手机银行APP市场时，假冒的银行APP也开始出没，趁机收割用户。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;在银行抢占手机银行APP市场时，假冒的银行APP也开始出没，趁机收割用户。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全成美国大选背锅侠，CISA 安全总监或将被解雇</title>
+    <link href="https://writeup.cn/2020/11/16/202011161830581605522659/"/>
+    <id>https://writeup.cn/2020/11/16/202011161830581605522659/</id>
+    <published>2020-11-16T10:30:58.000Z</published>
+    <updated>2020-11-17T09:17:32.676Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>美国历史上首任也是现任美国国土安全部网络安全和基础设施安全局（CISA）安全总监Chris Krebs 表示，自己对大选流程部署的保护措施激怒了特朗普当局，Krebs认为自己将被白宫解雇。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;美国历史上首任也是现任美国国土安全部网络安全和基础设施安全局（CISA）安全总监Chris Krebs 表示，自己对大选流程部署的保护措施激怒了特朗普当局，Krebs认为自己将被白宫解雇。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“钉钉打卡”引发人脸识别安全问题的9个思考</title>
+    <link href="https://writeup.cn/2020/11/16/202011161830161605522617/"/>
+    <id>https://writeup.cn/2020/11/16/202011161830161605522617/</id>
+    <published>2020-11-16T10:30:16.000Z</published>
+    <updated>2020-11-17T09:17:32.676Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>由于疫情原因，已逐步应用的人脸识别得到大规模推广，被广泛应用于社区门禁、企业考勤等领域，引发的隐私问题也备受关注。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;由于疫情原因，已逐步应用的人脸识别得到大规模推广，被广泛应用于社区门禁、企业考勤等领域，引发的隐私问题也备受关注。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>澳大利亚证券交易所遇十多年来最长交易暂停</title>
+    <link href="https://writeup.cn/2020/11/16/202011161800201605520821/"/>
+    <id>https://writeup.cn/2020/11/16/202011161800201605520821/</id>
+    <published>2020-11-16T10:00:20.000Z</published>
+    <updated>2020-11-17T09:17:32.675Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>周一开盘还不足半小时，澳大利亚股市就因为一个数据问题被迫在今日余下时间内一直关闭，从而破坏了一个新版交易系统的首秀。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;周一开盘还不足半小时，澳大利亚股市就因为一个数据问题被迫在今日余下时间内一直关闭，从而破坏了一个新版交易系统的首秀。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RCEP条文梳理：个人信息保护/网络安全/数据跨境传输</title>
+    <link href="https://writeup.cn/2020/11/16/202011161800181605520819/"/>
+    <id>https://writeup.cn/2020/11/16/202011161800181605520819/</id>
+    <published>2020-11-16T10:00:18.000Z</published>
+    <updated>2020-11-17T09:17:32.675Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>RCEP规定了跨境传输数据的规则，并限制成员国政府对数字贸易施加各种限制，包括数据本地化（存储）要求等。RCEP还对贸易相关文件材料数字化、使用电子签名、电子认证、垃圾邮件等领域进行了规范，旨在促进跨境贸易的同时，保护区域内消费者个人信息安全。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;RCEP规定了跨境传输数据的规则，并限制成员国政府对数字贸易施加各种限制，包括数据本地化（存储）要求等。RCEP还对贸易相关文件材料数字化、使用电子签名、电子认证、垃圾邮件等领域进行了规范，旨在促进跨境贸易的同时，保护区域内消费者个人信息安全。&lt;/code&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SASE和零信任并不是满足所有安全需求的“万金油”</title>
+    <link href="https://writeup.cn/2020/11/16/202011161630191605515420/"/>
+    <id>https://writeup.cn/2020/11/16/202011161630191605515420/</id>
+    <published>2020-11-16T08:30:19.000Z</published>
+    <updated>2020-11-17T09:17:32.675Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>随着网络攻击的不断增加，企业不断向云端迁移，SASE和零信任框架都增强了企业的应用程序和数据的安全性。这两个框架都侧重确保只有经过认证和授权的用户才能访问云中的资产。但SASE和零信任并不是能够满足所有网络及应用安全需求的万能灵药。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;随着网络攻击的不断增加，企业不断向云端迁移，SASE和零信任框架都增强了企业的应用程序和数据的安全性。这两个框架都侧重确保只有经过认证和授权的用户才能访问云中的资产。但SASE和零信任并不是能够满足所有网络及应用安全需求的万能灵药。&lt;/code&gt;&lt;/pre&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
     
   </entry>
   
@@ -63,414 +405,71 @@
   </entry>
   
   <entry>
-    <title>【安全通报】SaltStack 远程命令执行漏洞（CVE-2020-16846）</title>
-    <link href="https://writeup.cn/2020/11/04/202011041820121604485212/"/>
-    <id>https://writeup.cn/2020/11/04/202011041820121604485212/</id>
-    <published>2020-11-04T10:20:12.000Z</published>
-    <updated>2020-11-17T08:18:08.062Z</updated>
+    <title>零信任的终端安全闭环</title>
+    <link href="https://writeup.cn/2020/11/16/202011161500241605510024/"/>
+    <id>https://writeup.cn/2020/11/16/202011161500241605510024/</id>
+    <published>2020-11-16T07:00:24.000Z</published>
+    <updated>2020-11-17T09:17:32.675Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>近日SaltStack官方发布安全更新，修复了包括 CVE-2020-16846 远程命令执行漏洞在内的多个漏洞。SaltStack 存在远程命令执行漏洞，攻击者通过构造恶意请求，通过...</code></pre>]]></content>
+    <content type="html"><![CDATA[<pre><code>很多国外零信任厂商都在采用RBI技术（远程浏览器隔离）来解决客户端的安全问题，比如Zscaler公司就通过收购Appsolate，在自己的零信任接入方案中融入了RBI技术。</code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;pre&gt;&lt;code&gt;近日SaltStack官方发布安全更新，修复了包括 CVE-2020-16846 远程命令执行漏洞在内的多个漏洞。SaltStack 存在远程命令执行漏洞，攻击者通过构造恶意请求，通过...&lt;/code&gt;&lt;/pre&gt;
+    <summary type="html">&lt;pre&gt;&lt;code&gt;很多国外零信任厂商都在采用RBI技术（远程浏览器隔离）来解决客户端的安全问题，比如Zscaler公司就通过收购Appsolate，在自己的零信任接入方案中融入了RBI技术。&lt;/code&gt;&lt;/pre&gt;
 </summary>
       
     
     
     
     
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
     
   </entry>
   
   <entry>
-    <title>【安全通报】Apache Shiro 权限绕过漏洞通告（CVE-2020-17510）</title>
-    <link href="https://writeup.cn/2020/11/02/202011021530141604302214/"/>
-    <id>https://writeup.cn/2020/11/02/202011021530141604302214/</id>
-    <published>2020-11-02T07:30:14.000Z</published>
-    <updated>2020-11-17T08:18:08.061Z</updated>
+    <title>户外服装巨头The North Face遭遇撞库攻击</title>
+    <link href="https://writeup.cn/2020/11/16/202011161500221605510024/"/>
+    <id>https://writeup.cn/2020/11/16/202011161500221605510024/</id>
+    <published>2020-11-16T07:00:22.000Z</published>
+    <updated>2020-11-17T09:17:32.674Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>Shiro 发布了验证绕过高危漏洞的风险通告（CVE-2020-17510）。在使用 Apache Shiro 与 Spring 时，远程攻击者可以发送特制的 HTTP 请求，绕过身份验证过程并获得...</code></pre>]]></content>
+    <content type="html"><![CDATA[<pre><code>户外服装巨头The North Face声称，在官方网站上检测到撞库攻击（凭证填充攻击）后，已重置了数量不详的客户账户。</code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;pre&gt;&lt;code&gt;Shiro 发布了验证绕过高危漏洞的风险通告（CVE-2020-17510）。在使用 Apache Shiro 与 Spring 时，远程攻击者可以发送特制的 HTTP 请求，绕过身份验证过程并获得...&lt;/code&gt;&lt;/pre&gt;
+    <summary type="html">&lt;pre&gt;&lt;code&gt;户外服装巨头The North Face声称，在官方网站上检测到撞库攻击（凭证填充攻击）后，已重置了数量不详的客户账户。&lt;/code&gt;&lt;/pre&gt;
 </summary>
       
     
     
     
     
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
     
   </entry>
   
   <entry>
-    <title>【安全通报】Weblogic CVE-2020-14882绕过0day漏洞</title>
-    <link href="https://writeup.cn/2020/10/30/202010301100231604026823/"/>
-    <id>https://writeup.cn/2020/10/30/202010301100231604026823/</id>
-    <published>2020-10-30T03:00:23.000Z</published>
-    <updated>2020-11-17T08:18:08.061Z</updated>
+    <title>5G网络安全监测预警机制浅析</title>
+    <link href="https://writeup.cn/2020/11/16/202011161500201605510022/"/>
+    <id>https://writeup.cn/2020/11/16/202011161500201605510022/</id>
+    <published>2020-11-16T07:00:20.000Z</published>
+    <updated>2020-11-17T09:17:32.674Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。这些补丁修复了包括 C...</code></pre>]]></content>
+    <content type="html"><![CDATA[<pre><code>本文提出了一种基于SDN与现有5G网络架构深度融合的安全监测预警机制，该机制具有较强的扩展性及广泛的适用性，能全面对5G网络安全进行全程监测并预警。</code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;pre&gt;&lt;code&gt;2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。这些补丁修复了包括 C...&lt;/code&gt;&lt;/pre&gt;
+    <summary type="html">&lt;pre&gt;&lt;code&gt;本文提出了一种基于SDN与现有5G网络架构深度融合的安全监测预警机制，该机制具有较强的扩展性及广泛的适用性，能全面对5G网络安全进行全程监测并预警。&lt;/code&gt;&lt;/pre&gt;
 </summary>
       
     
     
     
     
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】XXL-JOB API 接口未授权访问致反序列化漏洞</title>
-    <link href="https://writeup.cn/2020/10/28/202010281320191603862419/"/>
-    <id>https://writeup.cn/2020/10/28/202010281320191603862419/</id>
-    <published>2020-10-28T05:20:19.000Z</published>
-    <updated>2020-11-17T08:18:08.061Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>XXL-JOB是一个轻量级分布式任务调度平台。默认情况下XXL-JOB的API接口没有配置认证措施，未授权的攻击者可构造恶意请求，触发反序列化，造成远程执行命令，直接...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;XXL-JOB是一个轻量级分布式任务调度平台。默认情况下XXL-JOB的API接口没有配置认证措施，未授权的攻击者可构造恶意请求，触发反序列化，造成远程执行命令，直接...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】禅道开源版文件上传漏洞（CNVD-C-2020-121325）</title>
-    <link href="https://writeup.cn/2020/10/26/202010261810111603707011/"/>
-    <id>https://writeup.cn/2020/10/26/202010261810111603707011/</id>
-    <published>2020-10-26T10:10:11.000Z</published>
-    <updated>2020-11-17T08:18:08.060Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>近日，禅道官网发布了12.4.3版本更新公告，修复了一个文件上传的漏洞，在禅道开源版低于12.4.3版本中存在任意文件读取和任意文件上传漏洞，恶意攻击者（需要登陆...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;近日，禅道官网发布了12.4.3版本更新公告，修复了一个文件上传的漏洞，在禅道开源版低于12.4.3版本中存在任意文件读取和任意文件上传漏洞，恶意攻击者（需要登陆...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Weblogic 多个远程代码执行漏洞</title>
-    <link href="https://writeup.cn/2020/10/21/202010211110131603249813/"/>
-    <id>https://writeup.cn/2020/10/21/202010211110131603249813/</id>
-    <published>2020-10-21T03:10:13.000Z</published>
-    <updated>2020-11-17T08:18:08.060Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。此次修复的漏洞中包括...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。此次修复的漏洞中包括...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Adobe Magento 远程代码执行漏洞（CVE-2020-24407）</title>
-    <link href="https://writeup.cn/2020/10/19/202010191820111603102811/"/>
-    <id>https://writeup.cn/2020/10/19/202010191820111603102811/</id>
-    <published>2020-10-19T10:20:11.000Z</published>
-    <updated>2020-11-17T08:18:08.060Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>近日 Adobe 官方发布安全公告披露了在 Magento Commerce/Open Source 2.3 以及 2.4 版本中存在 CVE-2020-24407 远程代码执行、CVE-2020-24400 SQL注入等多个漏洞...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;近日 Adobe 官方发布安全公告披露了在 Magento Commerce/Open Source 2.3 以及 2.4 版本中存在 CVE-2020-24407 远程代码执行、CVE-2020-24400 SQL注入等多个漏洞...&lt;/code&gt;&lt;/pr</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Shiro &amp; Nexus Repository Manger 2/3 权限验证绕过漏洞（CVE-2020-13933）</title>
-    <link href="https://writeup.cn/2020/10/16/202010161740151602841215/"/>
-    <id>https://writeup.cn/2020/10/16/202010161740151602841215/</id>
-    <published>2020-10-16T09:40:15.000Z</published>
-    <updated>2020-11-17T08:18:08.060Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>Nexus Repository Manger 2 &amp; 3 验证绕过高危漏洞，未经身份验证的用户可以提交特制的 HTTP 请求，这可能会导致身份验证绕过。</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;Nexus Repository Manger 2 &amp;amp; 3 验证绕过高危漏洞，未经身份验证的用户可以提交特制的 HTTP 请求，这可能会导致身份验证绕过。&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】VMware vCenter未授权任意文件读取</title>
-    <link href="https://writeup.cn/2020/10/14/202010141740121602668412/"/>
-    <id>https://writeup.cn/2020/10/14/202010141740121602668412/</id>
-    <published>2020-10-14T09:40:12.000Z</published>
-    <updated>2020-11-17T08:18:08.059Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>近日，公网中公布了VMware vCenterServer的任意文件读取漏洞以及漏洞利用 POC，攻击者可任意读取用户名和密码，漏洞危害较大，请受影响的用户尽快修复。</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;近日，公网中公布了VMware vCenterServer的任意文件读取漏洞以及漏洞利用 POC，攻击者可任意读取用户名和密码，漏洞危害较大，请受影响的用户尽快修复。&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Apache Solr configset upload文件上传漏洞（CVE-2020-13957）</title>
-    <link href="https://writeup.cn/2020/10/13/202010131730131602581413/"/>
-    <id>https://writeup.cn/2020/10/13/202010131730131602581413/</id>
-    <published>2020-10-13T09:30:13.000Z</published>
-    <updated>2020-11-17T08:18:08.059Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>2020年10月13日，Apache Solr发布安全更新，其中修复了CVE-2020-13957 Apache Solr configset upload文件上传漏洞。攻击者通过构造特定的请求，成功利用该漏洞可...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年10月13日，Apache Solr发布安全更新，其中修复了CVE-2020-13957 Apache Solr configset upload文件上传漏洞。攻击者通过构造特定的请求，成功利用该漏洞可...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】MyBatis 远程代码执行漏洞（CVE-2020-26945）</title>
-    <link href="https://writeup.cn/2020/10/12/202010122230201602513020/"/>
-    <id>https://writeup.cn/2020/10/12/202010122230201602513020/</id>
-    <published>2020-10-12T14:30:20.000Z</published>
-    <updated>2020-11-17T08:18:08.059Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>2020年10月6日，MyBatis官方发布了MyBatis 3.5.6版本，修复了一个远程代码执行漏洞，该漏洞编号为CVE-2020-26945。在满足以下三个条件的时候，攻击者可以触发远...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年10月6日，MyBatis官方发布了MyBatis 3.5.6版本，修复了一个远程代码执行漏洞，该漏洞编号为CVE-2020-26945。在满足以下三个条件的时候，攻击者可以触发远...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Zabbix远程执行代码漏洞（CVE-2020-11800）</title>
-    <link href="https://writeup.cn/2020/10/09/202010092200101602252010/"/>
-    <id>https://writeup.cn/2020/10/09/202010092200101602252010/</id>
-    <published>2020-10-09T14:00:10.000Z</published>
-    <updated>2020-11-17T08:18:08.059Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>Zabbix 在 3.0.31 和 3.2 之前，Zabbix Server 2.2.x 和 3.0.x 允许远程攻击者执行任意代码。该漏洞于 2020 年 8 月 10 日披露，漏洞编号为 CVE-2020-11800。</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;Zabbix 在 3.0.31 和 3.2 之前，Zabbix Server 2.2.x 和 3.0.x 允许远程攻击者执行任意代码。该漏洞于 2020 年 8 月 10 日披露，漏洞编号为 CVE-2020-11800。&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Nexus Repository Manager 2 目录穿越漏洞（CVE-2020-15012）</title>
-    <link href="https://writeup.cn/2020/10/09/202010091920131602242413/"/>
-    <id>https://writeup.cn/2020/10/09/202010091920131602242413/</id>
-    <published>2020-10-09T11:20:13.000Z</published>
-    <updated>2020-11-17T08:18:08.059Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>2020年10月09日，nexus repository manager 2 发布了 nexus repository manager 2 目录穿越漏洞的风险通告，该漏洞编号为 CVE-2020-15012，漏洞等级：高危，漏洞...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年10月09日，nexus repository manager 2 发布了 nexus repository manager 2 目录穿越漏洞的风险通告，该漏洞编号为 CVE-2020-15012，漏洞等级：高危，漏洞...&lt;/code&gt;&lt;/pre</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Citrix Systems 多款产品存在安全漏洞（CVE-2020-8245、CVE-2020-8246、CVE-2020-8247）</title>
-    <link href="https://writeup.cn/2020/09/20/202009201550111600588211/"/>
-    <id>https://writeup.cn/2020/09/20/202009201550111600588211/</id>
-    <published>2020-09-20T07:50:11.000Z</published>
-    <updated>2020-11-17T08:18:08.058Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>Citrix Systems是一家美国跨国软件公司，提供服务器，应用程序和桌面虚拟化，网络，软件即服务（SaaS）和云计算技术。Citrix产品据称已在全球超过40万个客户中使...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;Citrix Systems是一家美国跨国软件公司，提供服务器，应用程序和桌面虚拟化，网络，软件即服务（SaaS）和云计算技术。Citrix产品据称已在全球超过40万个客户中使...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Microsoft Exchange远程代码执行漏洞（CVE-2020-16875）</title>
-    <link href="https://writeup.cn/2020/09/16/202009162110101600261810/"/>
-    <id>https://writeup.cn/2020/09/16/202009162110101600261810/</id>
-    <published>2020-09-16T13:10:10.000Z</published>
-    <updated>2020-11-17T08:18:08.058Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>2020年09月08日微软发布关于 Microsoft Exchange 远程代码执行漏洞（CVE-2020-16875）漏洞通告，由于对 cmdlet 参数的验证不正确，Microsoft Exchange 服务器中...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年09月08日微软发布关于 Microsoft Exchange 远程代码执行漏洞（CVE-2020-16875）漏洞通告，由于对 cmdlet 参数的验证不正确，Microsoft Exchange 服务器中...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】深信服EDR多个0day漏洞风险通告</title>
-    <link href="https://writeup.cn/2020/09/15/202009151750161600163416/"/>
-    <id>https://writeup.cn/2020/09/15/202009151750161600163416/</id>
-    <published>2020-09-15T09:50:16.000Z</published>
-    <updated>2020-11-17T08:18:08.058Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>深信服终端检测响应平台（EDR）RCE漏洞，攻击者利用该漏洞可远程执行系统命令，获得目标服务器的权限，风险较高。</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;深信服终端检测响应平台（EDR）RCE漏洞，攻击者利用该漏洞可远程执行系统命令，获得目标服务器的权限，风险较高。&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】绿盟UTS综合威胁探针管理员任意登录漏洞</title>
-    <link href="https://writeup.cn/2020/09/15/202009151750151600163415/"/>
-    <id>https://writeup.cn/2020/09/15/202009151750151600163415/</id>
-    <published>2020-09-15T09:50:15.000Z</published>
-    <updated>2020-11-17T08:18:08.058Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>绿盟全流量威胁分析解决方案针对原始流量进行采集和监控，对流量信息进行深度还原、存储、查询和分析，可以及时掌握重要信息系统相关网络安全威胁风险，及时检测...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;绿盟全流量威胁分析解决方案针对原始流量进行采集和监控，对流量信息进行深度还原、存储、查询和分析，可以及时掌握重要信息系统相关网络安全威胁风险，及时检测...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【安全通报】Apache DolphinScheduler高危漏洞（CVE-2020-11974、CVE-2020-13922）</title>
-    <link href="https://writeup.cn/2020/09/15/202009151750141600163414/"/>
-    <id>https://writeup.cn/2020/09/15/202009151750141600163414/</id>
-    <published>2020-09-15T09:50:14.000Z</published>
-    <updated>2020-11-17T08:18:08.057Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>Apache DolphinScheduler 是一个分布式去中心化，易扩展的可视化DAG工作流任务调度系统。致力于解决数据处...</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;Apache DolphinScheduler 是一个分布式去中心化，易扩展的可视化DAG工作流任务调度系统。致力于解决数据处...&lt;/code&gt;&lt;/pre&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    <category term="安全内参" scheme="https://writeup.cn/tags/%E5%AE%89%E5%85%A8%E5%86%85%E5%8F%82/"/>
     
   </entry>
   
