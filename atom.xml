@@ -6,7 +6,7 @@
   <link href="https://writeup.cn/atom.xml" rel="self"/>
   
   <link href="https://writeup.cn/"/>
-  <updated>2020-11-17T06:51:18.471Z</updated>
+  <updated>2020-11-17T08:18:08.062Z</updated>
   <id>https://writeup.cn/</id>
   
   <author>
@@ -18,23 +18,459 @@
   
   <entry>
     <title>【安全通报】Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）</title>
-    <link href="https://writeup.cn/2020/11/17/hello-world/"/>
-    <id>https://writeup.cn/2020/11/17/hello-world/</id>
-    <published>2020-11-16T16:53:43.926Z</published>
-    <updated>2020-11-17T06:51:18.471Z</updated>
+    <link href="https://writeup.cn/2020/11/17/202011171220111605586811/"/>
+    <id>https://writeup.cn/2020/11/17/202011171220111605586811/</id>
+    <published>2020-11-17T04:20:11.000Z</published>
+    <updated>2020-11-17T08:18:08.062Z</updated>
     
-    <content type="html"><![CDATA[<p>近日Citrix官方发布安全更新，修复了包括 CVE-2020-8209 远程命令执行漏洞在内的多个漏洞。XenMobile（Citrix Endpoint Management）存在目录遍历漏洞，攻击者未…<a href="https://nosec.org/home/detail/4609.html">查看详情</a></p>]]></content>
+    <content type="html"><![CDATA[<pre><code>近日Citrix官方发布安全更新，修复了包括 CVE-2020-8209 远程命令执行漏洞在内的多个漏洞。XenMobile（Citrix Endpoint Management）存在目录遍历漏洞，攻击者未...</code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;近日Citrix官方发布安全更新，修复了包括 CVE-2020-8209 远程命令执行漏洞在内的多个漏洞。XenMobile（Citrix Endpoint Management）存在目录遍历漏洞，攻击者未…&lt;a href=&quot;https://nosec.org/home/d</summary>
+    <summary type="html">&lt;pre&gt;&lt;code&gt;近日Citrix官方发布安全更新，修复了包括 CVE-2020-8209 远程命令执行漏洞在内的多个漏洞。XenMobile（Citrix Endpoint Management）存在目录遍历漏洞，攻击者未...&lt;/code&gt;&lt;/pre&gt;
+</summary>
       
     
     
     
     
-    <category term="白帽汇" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87/"/>
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】XStream &lt;1.4.14 远程代码执行高危漏洞（CVE-2020-26217）</title>
+    <link href="https://writeup.cn/2020/11/16/202011161530101605511810/"/>
+    <id>https://writeup.cn/2020/11/16/202011161530101605511810/</id>
+    <published>2020-11-16T07:30:10.000Z</published>
+    <updated>2020-11-17T08:18:08.062Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>XStream是一个常用的Java对象和xml相互转换的工具。2020年11月16日，XStream官方发布安全更新，修复了 CVE-2020-26217 XStream远程代码执行漏洞。攻击者通过构造...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;XStream是一个常用的Java对象和xml相互转换的工具。2020年11月16日，XStream官方发布安全更新，修复了 CVE-2020-26217 XStream远程代码执行漏洞。攻击者通过构造...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】SaltStack 远程命令执行漏洞（CVE-2020-16846）</title>
+    <link href="https://writeup.cn/2020/11/04/202011041820121604485212/"/>
+    <id>https://writeup.cn/2020/11/04/202011041820121604485212/</id>
+    <published>2020-11-04T10:20:12.000Z</published>
+    <updated>2020-11-17T08:18:08.062Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>近日SaltStack官方发布安全更新，修复了包括 CVE-2020-16846 远程命令执行漏洞在内的多个漏洞。SaltStack 存在远程命令执行漏洞，攻击者通过构造恶意请求，通过...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;近日SaltStack官方发布安全更新，修复了包括 CVE-2020-16846 远程命令执行漏洞在内的多个漏洞。SaltStack 存在远程命令执行漏洞，攻击者通过构造恶意请求，通过...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Apache Shiro 权限绕过漏洞通告（CVE-2020-17510）</title>
+    <link href="https://writeup.cn/2020/11/02/202011021530141604302214/"/>
+    <id>https://writeup.cn/2020/11/02/202011021530141604302214/</id>
+    <published>2020-11-02T07:30:14.000Z</published>
+    <updated>2020-11-17T08:18:08.061Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>Shiro 发布了验证绕过高危漏洞的风险通告（CVE-2020-17510）。在使用 Apache Shiro 与 Spring 时，远程攻击者可以发送特制的 HTTP 请求，绕过身份验证过程并获得...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;Shiro 发布了验证绕过高危漏洞的风险通告（CVE-2020-17510）。在使用 Apache Shiro 与 Spring 时，远程攻击者可以发送特制的 HTTP 请求，绕过身份验证过程并获得...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Weblogic CVE-2020-14882绕过0day漏洞</title>
+    <link href="https://writeup.cn/2020/10/30/202010301100231604026823/"/>
+    <id>https://writeup.cn/2020/10/30/202010301100231604026823/</id>
+    <published>2020-10-30T03:00:23.000Z</published>
+    <updated>2020-11-17T08:18:08.061Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。这些补丁修复了包括 C...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。这些补丁修复了包括 C...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】XXL-JOB API 接口未授权访问致反序列化漏洞</title>
+    <link href="https://writeup.cn/2020/10/28/202010281320191603862419/"/>
+    <id>https://writeup.cn/2020/10/28/202010281320191603862419/</id>
+    <published>2020-10-28T05:20:19.000Z</published>
+    <updated>2020-11-17T08:18:08.061Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>XXL-JOB是一个轻量级分布式任务调度平台。默认情况下XXL-JOB的API接口没有配置认证措施，未授权的攻击者可构造恶意请求，触发反序列化，造成远程执行命令，直接...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;XXL-JOB是一个轻量级分布式任务调度平台。默认情况下XXL-JOB的API接口没有配置认证措施，未授权的攻击者可构造恶意请求，触发反序列化，造成远程执行命令，直接...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】禅道开源版文件上传漏洞（CNVD-C-2020-121325）</title>
+    <link href="https://writeup.cn/2020/10/26/202010261810111603707011/"/>
+    <id>https://writeup.cn/2020/10/26/202010261810111603707011/</id>
+    <published>2020-10-26T10:10:11.000Z</published>
+    <updated>2020-11-17T08:18:08.060Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>近日，禅道官网发布了12.4.3版本更新公告，修复了一个文件上传的漏洞，在禅道开源版低于12.4.3版本中存在任意文件读取和任意文件上传漏洞，恶意攻击者（需要登陆...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;近日，禅道官网发布了12.4.3版本更新公告，修复了一个文件上传的漏洞，在禅道开源版低于12.4.3版本中存在任意文件读取和任意文件上传漏洞，恶意攻击者（需要登陆...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Weblogic 多个远程代码执行漏洞</title>
+    <link href="https://writeup.cn/2020/10/21/202010211110131603249813/"/>
+    <id>https://writeup.cn/2020/10/21/202010211110131603249813/</id>
+    <published>2020-10-21T03:10:13.000Z</published>
+    <updated>2020-11-17T08:18:08.060Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。此次修复的漏洞中包括...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;2020 年 10 月 20 日，Oracle 发布了大量安全补丁，涉及旗下产品（Databa se Server、Weblogic Server、Java SE、MySQL等）的 430 个漏洞。此次修复的漏洞中包括...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Adobe Magento 远程代码执行漏洞（CVE-2020-24407）</title>
+    <link href="https://writeup.cn/2020/10/19/202010191820111603102811/"/>
+    <id>https://writeup.cn/2020/10/19/202010191820111603102811/</id>
+    <published>2020-10-19T10:20:11.000Z</published>
+    <updated>2020-11-17T08:18:08.060Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>近日 Adobe 官方发布安全公告披露了在 Magento Commerce/Open Source 2.3 以及 2.4 版本中存在 CVE-2020-24407 远程代码执行、CVE-2020-24400 SQL注入等多个漏洞...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;近日 Adobe 官方发布安全公告披露了在 Magento Commerce/Open Source 2.3 以及 2.4 版本中存在 CVE-2020-24407 远程代码执行、CVE-2020-24400 SQL注入等多个漏洞...&lt;/code&gt;&lt;/pr</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Shiro &amp; Nexus Repository Manger 2/3 权限验证绕过漏洞（CVE-2020-13933）</title>
+    <link href="https://writeup.cn/2020/10/16/202010161740151602841215/"/>
+    <id>https://writeup.cn/2020/10/16/202010161740151602841215/</id>
+    <published>2020-10-16T09:40:15.000Z</published>
+    <updated>2020-11-17T08:18:08.060Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>Nexus Repository Manger 2 &amp; 3 验证绕过高危漏洞，未经身份验证的用户可以提交特制的 HTTP 请求，这可能会导致身份验证绕过。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;Nexus Repository Manger 2 &amp;amp; 3 验证绕过高危漏洞，未经身份验证的用户可以提交特制的 HTTP 请求，这可能会导致身份验证绕过。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】VMware vCenter未授权任意文件读取</title>
+    <link href="https://writeup.cn/2020/10/14/202010141740121602668412/"/>
+    <id>https://writeup.cn/2020/10/14/202010141740121602668412/</id>
+    <published>2020-10-14T09:40:12.000Z</published>
+    <updated>2020-11-17T08:18:08.059Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>近日，公网中公布了VMware vCenterServer的任意文件读取漏洞以及漏洞利用 POC，攻击者可任意读取用户名和密码，漏洞危害较大，请受影响的用户尽快修复。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;近日，公网中公布了VMware vCenterServer的任意文件读取漏洞以及漏洞利用 POC，攻击者可任意读取用户名和密码，漏洞危害较大，请受影响的用户尽快修复。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Apache Solr configset upload文件上传漏洞（CVE-2020-13957）</title>
+    <link href="https://writeup.cn/2020/10/13/202010131730131602581413/"/>
+    <id>https://writeup.cn/2020/10/13/202010131730131602581413/</id>
+    <published>2020-10-13T09:30:13.000Z</published>
+    <updated>2020-11-17T08:18:08.059Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>2020年10月13日，Apache Solr发布安全更新，其中修复了CVE-2020-13957 Apache Solr configset upload文件上传漏洞。攻击者通过构造特定的请求，成功利用该漏洞可...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年10月13日，Apache Solr发布安全更新，其中修复了CVE-2020-13957 Apache Solr configset upload文件上传漏洞。攻击者通过构造特定的请求，成功利用该漏洞可...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】MyBatis 远程代码执行漏洞（CVE-2020-26945）</title>
+    <link href="https://writeup.cn/2020/10/12/202010122230201602513020/"/>
+    <id>https://writeup.cn/2020/10/12/202010122230201602513020/</id>
+    <published>2020-10-12T14:30:20.000Z</published>
+    <updated>2020-11-17T08:18:08.059Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>2020年10月6日，MyBatis官方发布了MyBatis 3.5.6版本，修复了一个远程代码执行漏洞，该漏洞编号为CVE-2020-26945。在满足以下三个条件的时候，攻击者可以触发远...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年10月6日，MyBatis官方发布了MyBatis 3.5.6版本，修复了一个远程代码执行漏洞，该漏洞编号为CVE-2020-26945。在满足以下三个条件的时候，攻击者可以触发远...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Zabbix远程执行代码漏洞（CVE-2020-11800）</title>
+    <link href="https://writeup.cn/2020/10/09/202010092200101602252010/"/>
+    <id>https://writeup.cn/2020/10/09/202010092200101602252010/</id>
+    <published>2020-10-09T14:00:10.000Z</published>
+    <updated>2020-11-17T08:18:08.059Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>Zabbix 在 3.0.31 和 3.2 之前，Zabbix Server 2.2.x 和 3.0.x 允许远程攻击者执行任意代码。该漏洞于 2020 年 8 月 10 日披露，漏洞编号为 CVE-2020-11800。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;Zabbix 在 3.0.31 和 3.2 之前，Zabbix Server 2.2.x 和 3.0.x 允许远程攻击者执行任意代码。该漏洞于 2020 年 8 月 10 日披露，漏洞编号为 CVE-2020-11800。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Nexus Repository Manager 2 目录穿越漏洞（CVE-2020-15012）</title>
+    <link href="https://writeup.cn/2020/10/09/202010091920131602242413/"/>
+    <id>https://writeup.cn/2020/10/09/202010091920131602242413/</id>
+    <published>2020-10-09T11:20:13.000Z</published>
+    <updated>2020-11-17T08:18:08.059Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>2020年10月09日，nexus repository manager 2 发布了 nexus repository manager 2 目录穿越漏洞的风险通告，该漏洞编号为 CVE-2020-15012，漏洞等级：高危，漏洞...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年10月09日，nexus repository manager 2 发布了 nexus repository manager 2 目录穿越漏洞的风险通告，该漏洞编号为 CVE-2020-15012，漏洞等级：高危，漏洞...&lt;/code&gt;&lt;/pre</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Citrix Systems 多款产品存在安全漏洞（CVE-2020-8245、CVE-2020-8246、CVE-2020-8247）</title>
+    <link href="https://writeup.cn/2020/09/20/202009201550111600588211/"/>
+    <id>https://writeup.cn/2020/09/20/202009201550111600588211/</id>
+    <published>2020-09-20T07:50:11.000Z</published>
+    <updated>2020-11-17T08:18:08.058Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>Citrix Systems是一家美国跨国软件公司，提供服务器，应用程序和桌面虚拟化，网络，软件即服务（SaaS）和云计算技术。Citrix产品据称已在全球超过40万个客户中使...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;Citrix Systems是一家美国跨国软件公司，提供服务器，应用程序和桌面虚拟化，网络，软件即服务（SaaS）和云计算技术。Citrix产品据称已在全球超过40万个客户中使...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Microsoft Exchange远程代码执行漏洞（CVE-2020-16875）</title>
+    <link href="https://writeup.cn/2020/09/16/202009162110101600261810/"/>
+    <id>https://writeup.cn/2020/09/16/202009162110101600261810/</id>
+    <published>2020-09-16T13:10:10.000Z</published>
+    <updated>2020-11-17T08:18:08.058Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>2020年09月08日微软发布关于 Microsoft Exchange 远程代码执行漏洞（CVE-2020-16875）漏洞通告，由于对 cmdlet 参数的验证不正确，Microsoft Exchange 服务器中...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;2020年09月08日微软发布关于 Microsoft Exchange 远程代码执行漏洞（CVE-2020-16875）漏洞通告，由于对 cmdlet 参数的验证不正确，Microsoft Exchange 服务器中...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】深信服EDR多个0day漏洞风险通告</title>
+    <link href="https://writeup.cn/2020/09/15/202009151750161600163416/"/>
+    <id>https://writeup.cn/2020/09/15/202009151750161600163416/</id>
+    <published>2020-09-15T09:50:16.000Z</published>
+    <updated>2020-11-17T08:18:08.058Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>深信服终端检测响应平台（EDR）RCE漏洞，攻击者利用该漏洞可远程执行系统命令，获得目标服务器的权限，风险较高。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;深信服终端检测响应平台（EDR）RCE漏洞，攻击者利用该漏洞可远程执行系统命令，获得目标服务器的权限，风险较高。&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】绿盟UTS综合威胁探针管理员任意登录漏洞</title>
+    <link href="https://writeup.cn/2020/09/15/202009151750151600163415/"/>
+    <id>https://writeup.cn/2020/09/15/202009151750151600163415/</id>
+    <published>2020-09-15T09:50:15.000Z</published>
+    <updated>2020-11-17T08:18:08.058Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>绿盟全流量威胁分析解决方案针对原始流量进行采集和监控，对流量信息进行深度还原、存储、查询和分析，可以及时掌握重要信息系统相关网络安全威胁风险，及时检测...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;绿盟全流量威胁分析解决方案针对原始流量进行采集和监控，对流量信息进行深度还原、存储、查询和分析，可以及时掌握重要信息系统相关网络安全威胁风险，及时检测...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【安全通报】Apache DolphinScheduler高危漏洞（CVE-2020-11974、CVE-2020-13922）</title>
+    <link href="https://writeup.cn/2020/09/15/202009151750141600163414/"/>
+    <id>https://writeup.cn/2020/09/15/202009151750141600163414/</id>
+    <published>2020-09-15T09:50:14.000Z</published>
+    <updated>2020-11-17T08:18:08.057Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>Apache DolphinScheduler 是一个分布式去中心化，易扩展的可视化DAG工作流任务调度系统。致力于解决数据处...</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;Apache DolphinScheduler 是一个分布式去中心化，易扩展的可视化DAG工作流任务调度系统。致力于解决数据处...&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="白帽汇安全研究院" scheme="https://writeup.cn/tags/%E7%99%BD%E5%B8%BD%E6%B1%87%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E9%99%A2/"/>
     
   </entry>
   
