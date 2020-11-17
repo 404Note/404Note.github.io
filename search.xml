@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>Test</title>
+      <title>【安全通报】Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）</title>
       <link href="2020/11/17/hello-world/"/>
       <url>2020/11/17/hello-world/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">➜ id</span><br><span class="line">uid=0(root) gid=0(root) groups=0(root)</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<p>近日Citrix官方发布安全更新，修复了包括 CVE-2020-8209 远程命令执行漏洞在内的多个漏洞。XenMobile（Citrix Endpoint Management）存在目录遍历漏洞，攻击者未…<a href="https://nosec.org/home/detail/4609.html">查看详情</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 白帽汇 </tag>
+            
+        </tags>
       
     </entry>
     
